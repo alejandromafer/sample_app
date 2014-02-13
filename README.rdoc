@@ -1,4 +1,0 @@
-== README
-
-Aplicacion sample_app del tutorial de RUBY
-
